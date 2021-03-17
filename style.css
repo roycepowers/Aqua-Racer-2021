@@ -1,0 +1,44 @@
+* { 
+    margin: 0;
+    padding: 0;
+    background: rgb(51, 46, 46);
+}
+body {
+    background: rgb(51, 46, 46);
+}
+#container {
+    height: 670px;
+    width: 1300px;
+    position: relative;
+    background:rgb(65, 65, 231);
+    margin: 10px auto 0px auto;
+}
+#button{
+    margin-left: 200px;
+    color: black;
+    background: gray;
+}
+.racer {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background: yellow;
+}
+#racer1 {
+margin-top:60px;
+}
+#racer2 {
+margin-top:180px;
+}
+#racer3 {
+margin-top:280px;
+}
+#racer4 {
+margin-top:380px;
+}
+#racer5 {
+margin-top:480px;
+}
+#racer6 {
+margin-top:580px;
+}
